@@ -1,2 +1,2 @@
 # Principles
-Provides best practices about Design Principles
+Provides Best Practices about Design Principles
